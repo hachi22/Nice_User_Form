@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nice User Form</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="password">password</string>
+    <string name="register">REGISTER</string>
+    <string name="nice_userform">Nice UserForm</string>
+    <string name="welcome_to_the_app">Welcome to the app</string>
+    <string name="gender_pronouns">Gender Pronouns</string>
+    <string name="accept_terms_and_conditions">Accept terms and conditions</string>
+    <string name="birth_date">Birth date</string>
+    <string name="surname">Surname</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+</resources>
